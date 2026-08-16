@@ -53,7 +53,7 @@
             "last_commit": "2026-08-07T10:38:46Z",
             "owner": "ipython",
             "repo": "ipython",
-            "stars": 16774
+            "stars": 16773
           }
         },
         {
@@ -108,7 +108,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T02:38:36.437Z",
+    "last_updated": "2026-08-16T02:47:15.017Z",
     "original_repository": "kirang89/pycrumbs",
     "original_repository_sha": "6b813d2a8f8fa12f966f9fb86ed8a1538e54583d",
     "enhanced_repository": "enhansome/enhansome-pycrumbs",
