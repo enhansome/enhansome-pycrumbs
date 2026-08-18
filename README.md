@@ -87,7 +87,7 @@
 * [Intro to Python For Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 * [Best way to learn python](http://net.tutsplus.com/tutorials/the-best-way-to-learn-python/)
 * [Python Tips, tools and resources](http://web.archive.org/web/20141010212202/http://lurnq.com/lesson/Getting-started-with-Python-Tips-Tools-and-Resources)
-* [Python Koans: Learn Python through TDD](https://github.com/gregmalcolm/python_koans) ⭐ 5,112 | 🐛 27 | 🌐 Python | 📅 2024-08-18
+* [Python Koans: Learn Python through TDD](https://github.com/gregmalcolm/python_koans) ⭐ 5,111 | 🐛 27 | 🌐 Python | 📅 2024-08-18
 * [Beginner projects for a python newbie](http://newcoder.io/)
 * [Learn X in Y minutes - Python](http://learnxinyminutes.com/docs/python/)
 * [Python Practice book](http://anandology.com/python-practice-book/)
@@ -304,7 +304,7 @@
 
 ## Contributing to Python Development
 
-* [The CPython Developer's Guide](https://github.com/python/devguide) ⭐ 2,098 | 🐛 100 | 🌐 Python | 📅 2026-08-17
+* [The CPython Developer's Guide](https://github.com/python/devguide) ⭐ 2,098 | 🐛 101 | 🌐 Python | 📅 2026-08-17
 
 ## Warts and Gotchas
 
@@ -336,7 +336,7 @@
 * [Kickstarting Flask on Ubuntu - Setup and Deployment](https://realpython.com/blog/python/kickstarting-flask-on-ubuntu-setup-and-deployment)
 * [OAuth Authentication with Flask](http://blog.miguelgrinberg.com/post/oauth-authentication-with-flask)
 * [Building a blog using Flask and AngularJS](http://tutsbucket.com/tutorials/building-a-blog-using-flask-and-angularjs-part-1/)
-* [A repository of Flask resources](https://github.com/humiaozuzu/awesome-flask) ⭐ 12,747 | 🐛 27 | 📅 2026-08-17
+* [A repository of Flask resources](https://github.com/humiaozuzu/awesome-flask) ⭐ 12,748 | 🐛 1 | 📅 2026-08-17
 * [Building a Movie Recommendation Service with Spark & Flask](https://www.codementor.io/spark/tutorial/building-a-recommender-with-apache-spark-python-example-app-part2)
 * [Building a Kanban App with Flask and React](http://blog.tryolabs.com/2015/04/30/building-a-kanban-app-in-react/)
 
@@ -501,11 +501,11 @@
 
 * [Build your first Neural Network with Python and Keras](http://machinelearningmastery.com/tutorial-first-neural-network-python-keras/)
 * [Building powerful image classification models using very little data](https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html)
-* [Python implementation of several famous Deep Learning papers](https://github.com/fchollet/keras/tree/master/examples) ⭐ 64,232 | 🐛 219 | 🌐 Python | 📅 2026-08-14
+* [Python implementation of several famous Deep Learning papers](https://github.com/fchollet/keras/tree/master/examples) ⭐ 64,239 | 🐛 222 | 🌐 Python | 📅 2026-08-14
 
 ## IPython Notebooks
 
-* [A gallery of data science IPython notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) ⭐ 29,305 | 🐛 48 | 🌐 Python | 📅 2024-03-20
+* [A gallery of data science IPython notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) ⭐ 29,302 | 🐛 48 | 🌐 Python | 📅 2024-03-20
 * [A Gallery of Interesting IPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks) ⭐ 16,770 | 🐛 1,294 | 🌐 Python | 📅 2026-08-07
 * [Python for Geosciences](https://github.com/koldunovn/python_for_geosciences) ⭐ 480 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2020-04-29
 * [Get Started with Python](https://github.com/rajathkumarmp/Python-Lectures) ⭐ 397 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2020-10-02
@@ -571,7 +571,7 @@
 
 ### Free
 
-* [Free Programming Books - Python](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#python) ⭐ 394,580 | 🐛 78 | 🌐 Python | 📅 2026-08-16
+* [Free Programming Books - Python](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#python) ⭐ 394,641 | 🐛 82 | 🌐 Python | 📅 2026-08-16
 * [Python Programming - Free Computer Books](http://freecomputerbooks.com/langPythonBooks.html)
 * [Some free books on Python](http://pythonbooks.revolunet.com/)
 * [Invent with Python](http://inventwithpython.com/chapters/)
@@ -598,7 +598,7 @@
 * [A Gentle Introduction to Programming Using Python](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/index.htm)
 * [Python Challenges](http://www.pythonchallenge.com/)
 * [Project Euler](http://projecteuler.net)
-* [Interactive, test-driven Python coding challenges](https://github.com/donnemartin/interactive-coding-challenges) ⭐ 31,728 | 🐛 75 | 🌐 Python | 📅 2024-05-08
+* [Interactive, test-driven Python coding challenges](https://github.com/donnemartin/interactive-coding-challenges) ⭐ 31,731 | 🐛 75 | 🌐 Python | 📅 2024-05-08
 
 ## Discussions
 
@@ -673,7 +673,7 @@
 * [How to Create Barcodes in Your PDFs with Python](http://java.dzone.com/articles/how-create-barcodes-your-pdfs)
 * [What are some good Python interview questions ?](http://www.quora.com/What-are-good-Python-interview-questions)
 * [Python innards introduction](http://tech.blog.aknin.name/2010/04/02/pythons-innards-introduction/)
-* [Projects - A list of practical projects](https://github.com/thekarangoel/Projects) ⭐ 47,870 | 🐛 123 | 📅 2024-08-14
+* [Projects - A list of practical projects](https://github.com/thekarangoel/Projects) ⭐ 47,872 | 🐛 123 | 📅 2024-08-14
 * [More Python Tutorials](http://web.archive.org/web/20141030172027/http://www.awaretek.com/tutorials.html)
 * [Developer Tools in Python](http://pypix.com/tools-and-tips/developer-tools/)
 * [The Best of Python in 2013](http://pypix.com/roundups/best-python-2013/)
@@ -700,4 +700,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
