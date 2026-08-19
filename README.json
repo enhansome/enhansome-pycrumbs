@@ -39,7 +39,7 @@
             "last_commit": "2024-03-20T13:52:34Z",
             "owner": "donnemartin",
             "repo": "data-science-ipython-notebooks",
-            "stars": 29302
+            "stars": 29304
           }
         },
         {
@@ -50,7 +50,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-07T10:38:46Z",
+            "last_commit": "2026-08-18T12:12:11Z",
             "owner": "ipython",
             "repo": "ipython",
             "stars": 16770
@@ -67,7 +67,7 @@
             "last_commit": "2020-04-29T18:36:01Z",
             "owner": "koldunovn",
             "repo": "python_for_geosciences",
-            "stars": 480
+            "stars": 479
           }
         },
         {
@@ -108,7 +108,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T02:42:12.569Z",
+    "last_updated": "2026-08-19T02:44:24.162Z",
     "original_repository": "kirang89/pycrumbs",
     "original_repository_sha": "6b813d2a8f8fa12f966f9fb86ed8a1538e54583d",
     "enhanced_repository": "enhansome/enhansome-pycrumbs",
