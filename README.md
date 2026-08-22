@@ -304,7 +304,7 @@
 
 ## Contributing to Python Development
 
-* [The CPython Developer's Guide](https://github.com/python/devguide) ⭐ 2,100 | 🐛 104 | 🌐 Python | 📅 2026-08-19
+* [The CPython Developer's Guide](https://github.com/python/devguide) ⭐ 2,100 | 🐛 104 | 🌐 Python | 📅 2026-08-21
 
 ## Warts and Gotchas
 
@@ -501,12 +501,12 @@
 
 * [Build your first Neural Network with Python and Keras](http://machinelearningmastery.com/tutorial-first-neural-network-python-keras/)
 * [Building powerful image classification models using very little data](https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html)
-* [Python implementation of several famous Deep Learning papers](https://github.com/fchollet/keras/tree/master/examples) ⭐ 64,241 | 🐛 226 | 🌐 Python | 📅 2026-08-20
+* [Python implementation of several famous Deep Learning papers](https://github.com/fchollet/keras/tree/master/examples) ⭐ 64,244 | 🐛 230 | 🌐 Python | 📅 2026-08-21
 
 ## IPython Notebooks
 
-* [A gallery of data science IPython notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) ⭐ 29,306 | 🐛 48 | 🌐 Python | 📅 2024-03-20
-* [A Gallery of Interesting IPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks) ⭐ 16,771 | 🐛 1,293 | 🌐 Python | 📅 2026-08-18
+* [A gallery of data science IPython notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) ⭐ 29,307 | 🐛 48 | 🌐 Python | 📅 2024-03-20
+* [A Gallery of Interesting IPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks) ⭐ 16,773 | 🐛 1,293 | 🌐 Python | 📅 2026-08-18
 * [Python for Geosciences](https://github.com/koldunovn/python_for_geosciences) ⭐ 479 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2020-04-29
 * [Get Started with Python](https://github.com/rajathkumarmp/Python-Lectures) ⭐ 397 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2020-10-02
 * [Jupyter Notebooks derived from Allen Downey's Think Bayes](https://github.com/rlabbe/ThinkBayes) ⭐ 396 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2016-02-25
@@ -571,7 +571,7 @@
 
 ### Free
 
-* [Free Programming Books - Python](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#python) ⭐ 394,876 | 🐛 81 | 🌐 Python | 📅 2026-08-18
+* [Free Programming Books - Python](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#python) ⭐ 394,964 | 🐛 80 | 🌐 Python | 📅 2026-08-18
 * [Python Programming - Free Computer Books](http://freecomputerbooks.com/langPythonBooks.html)
 * [Some free books on Python](http://pythonbooks.revolunet.com/)
 * [Invent with Python](http://inventwithpython.com/chapters/)
@@ -598,7 +598,7 @@
 * [A Gentle Introduction to Programming Using Python](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/index.htm)
 * [Python Challenges](http://www.pythonchallenge.com/)
 * [Project Euler](http://projecteuler.net)
-* [Interactive, test-driven Python coding challenges](https://github.com/donnemartin/interactive-coding-challenges) ⭐ 31,740 | 🐛 75 | 🌐 Python | 📅 2024-05-08
+* [Interactive, test-driven Python coding challenges](https://github.com/donnemartin/interactive-coding-challenges) ⭐ 31,742 | 🐛 75 | 🌐 Python | 📅 2024-05-08
 
 ## Discussions
 
@@ -628,7 +628,7 @@
 * [A Billion Rows per Second: Metaprogramming Python for Big Data](https://www.youtube.com/watch?v=rXj5nayS7Yg)
 * [The newboston site tutorial](https://thenewboston.com/videos.php?cat=36) - [Python 3 version](https://thenewboston.com/videos.php?cat=98)
 * [Python Programming Tutorials](https://www.youtube.com/playlist?list=PLEA1FEF17E1E5C0DA\&feature=plcp)
-* [Must-watch videos about Python by s16h](https://github.com/s16h/py-must-watch) ⭐ 3,338 | 🐛 25 | 🌐 HTML | 📅 2021-10-27
+* [Must-watch videos about Python by s16h](https://github.com/s16h/py-must-watch) ⭐ 3,339 | 🐛 25 | 🌐 HTML | 📅 2021-10-27
 
 ## Editors and IDE's for Python programming
 
@@ -673,7 +673,7 @@
 * [How to Create Barcodes in Your PDFs with Python](http://java.dzone.com/articles/how-create-barcodes-your-pdfs)
 * [What are some good Python interview questions ?](http://www.quora.com/What-are-good-Python-interview-questions)
 * [Python innards introduction](http://tech.blog.aknin.name/2010/04/02/pythons-innards-introduction/)
-* [Projects - A list of practical projects](https://github.com/thekarangoel/Projects) ⭐ 47,884 | 🐛 123 | 📅 2024-08-14
+* [Projects - A list of practical projects](https://github.com/thekarangoel/Projects) ⭐ 47,887 | 🐛 123 | 📅 2024-08-14
 * [More Python Tutorials](http://web.archive.org/web/20141030172027/http://www.awaretek.com/tutorials.html)
 * [Developer Tools in Python](http://pypix.com/tools-and-tips/developer-tools/)
 * [The Best of Python in 2013](http://pypix.com/roundups/best-python-2013/)
@@ -700,4 +700,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
