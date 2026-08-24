@@ -77,6 +77,7 @@
 
 ## Beginner's Delight
 
+* [Python Koans: Learn Python through TDD](https://github.com/gregmalcolm/python_koans) ⭐ 5,113 | 🐛 27 | 🌐 Python | 📅 2024-08-18
 * [Beginner's guide to Python](http://wiki.python.org/moin/BeginnersGuide)
 * [The Hitchhiker's guide to Python](http://docs.python-guide.org/en/latest/)
 * [Learn Python the hard way](http://learnpythonthehardway.org/book/)
@@ -87,7 +88,6 @@
 * [Intro to Python For Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 * [Best way to learn python](http://net.tutsplus.com/tutorials/the-best-way-to-learn-python/)
 * [Python Tips, tools and resources](http://web.archive.org/web/20141010212202/http://lurnq.com/lesson/Getting-started-with-Python-Tips-Tools-and-Resources)
-* [Python Koans: Learn Python through TDD](https://github.com/gregmalcolm/python_koans) ⭐ 5,113 | 🐛 27 | 🌐 Python | 📅 2024-08-18
 * [Beginner projects for a python newbie](http://newcoder.io/)
 * [Learn X in Y minutes - Python](http://learnxinyminutes.com/docs/python/)
 * [Python Practice book](http://anandology.com/python-practice-book/)
@@ -234,6 +234,7 @@
 
 ## Environments and Environment Management
 
+* [VirtualEnv Burrito = virtualenv + virtualenvwrapper](https://github.com/brainsik/virtualenv-burrito) ⭐ 837 | 🐛 8 | 🌐 Python | 📅 2019-02-11
 * [Virtualenv - The official documentation](http://www.virtualenv.org/en/latest/)
 * [Virtual Environments — The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/dev/virtualenvs/)
 * [Virtualenv Tutorial](http://simononsoftware.com/virtualenv-tutorial/)
@@ -241,7 +242,6 @@
 * [How to use Python virtualenv](http://www.pythonforbeginners.com/basics/how-to-use-python-virtualenv)
 * [Making Virtualenv play nice with Git](http://hmarr.com/2010/jan/19/making-virtualenv-play-nice-with-git/)
 * [Extension to Virtualenv](https://bitbucket.org/dhellmann/virtualenvwrapper)
-* [VirtualEnv Burrito = virtualenv + virtualenvwrapper](https://github.com/brainsik/virtualenv-burrito) ⭐ 837 | 🐛 8 | 🌐 Python | 📅 2019-02-11
 * [Virtualenv Tips](http://ericholscher.com/blog/2010/nov/1/virtualenv-tips/)
 * [Anaconda Primer](http://caffeineindustries.com/anaconda-primer.html)
 
@@ -260,9 +260,9 @@
 
 ## Testing
 
+* [How To Use Coverage.py With Unittest](https://github.com/audreyr/how-to/blob/master/python/use_coverage_with_unittest.rst) ⭐ 60 | 🐛 1 | 📅 2017-04-28
 * [Nose Introduction](http://pythontesting.net/framework/nose/nose-introduction/)
 * [Unittest Introduction](http://pythontesting.net/framework/unittest/unittest-introduction/)
-* [How To Use Coverage.py With Unittest](https://github.com/audreyr/how-to/blob/master/python/use_coverage_with_unittest.rst) ⭐ 60 | 🐛 1 | 📅 2017-04-28
 * [An Extended Introduction to the nose Unit Testing Framework](http://ivory.idyll.org/articles/nose-intro.html)
 * [Test strategies for your Python projects](http://web.archive.org/web/20160604121116/http://blog.flaper87.com/post/522b9e560f06d32542ede77f/)
 * [Improve Your Python: Understanding Unit Testing](http://jeffknupp.com/blog/2013/12/09/improve-your-python-understanding-unit-testing/)
@@ -304,7 +304,7 @@
 
 ## Contributing to Python Development
 
-* [The CPython Developer's Guide](https://github.com/python/devguide) ⭐ 2,101 | 🐛 104 | 🌐 Python | 📅 2026-08-22
+* [The CPython Developer's Guide](https://github.com/python/devguide) ⭐ 2,101 | 🐛 102 | 🌐 Python | 📅 2026-08-24
 
 ## Warts and Gotchas
 
@@ -324,6 +324,7 @@
 
 #### Flask
 
+* [A repository of Flask resources](https://github.com/humiaozuzu/awesome-flask) ⭐ 12,753 | 🐛 2 | 📅 2026-08-17
 * [Flask Mega Tutorial Series](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 * [Designing a RESTful API with Python and Flask](http://blog.miguelgrinberg.com/post/designing-a-restful-api-with-python-and-flask)
 * [How I structure my Flask apps](http://web.archive.org/web/20160324134243/http://mattupstate.com/python/2013/06/26/how-i-structure-my-flask-applications.html)
@@ -336,7 +337,6 @@
 * [Kickstarting Flask on Ubuntu - Setup and Deployment](https://realpython.com/blog/python/kickstarting-flask-on-ubuntu-setup-and-deployment)
 * [OAuth Authentication with Flask](http://blog.miguelgrinberg.com/post/oauth-authentication-with-flask)
 * [Building a blog using Flask and AngularJS](http://tutsbucket.com/tutorials/building-a-blog-using-flask-and-angularjs-part-1/)
-* [A repository of Flask resources](https://github.com/humiaozuzu/awesome-flask) ⭐ 12,752 | 🐛 1 | 📅 2026-08-17
 * [Building a Movie Recommendation Service with Spark & Flask](https://www.codementor.io/spark/tutorial/building-a-recommender-with-apache-spark-python-example-app-part2)
 * [Building a Kanban App with Flask and React](http://blog.tryolabs.com/2015/04/30/building-a-kanban-app-in-react/)
 
@@ -393,8 +393,8 @@
 
 ### API and Web Services
 
-* [How to access various web services in python](http://www.pythonforbeginners.com/python-on-the-web/how-to-access-various-web-services-in-python/)
 * [Glassdoor API](https://github.com/hackerlist/glassdoor) ⭐ 82 | 🐛 6 | 🌐 Python | 📅 2016-07-27
+* [How to access various web services in python](http://www.pythonforbeginners.com/python-on-the-web/how-to-access-various-web-services-in-python/)
 
 ### Scraping
 
@@ -429,12 +429,12 @@
 
 ## GUI Programming
 
+* [Pytkgen: JSON to Tkinter GUI Generator](https://github.com/tmetsch/pytkgen) ⭐ 121 | 🐛 2 | 🌐 Python | 📅 2020-06-22
 * [Python.org GUI Overview Page](https://wiki.python.org/moin/GuiProgramming)
 * [PyQt5 Tutorial](https://coderslegacy.com/python/pyqt5-tutorial/)
 * [Standalone executable for PyQt4 on Windows](http://www.py2exe.org/index.cgi/Py2exeAndPyQt)
 * [Kivy GUI for cross-platform applications](http://kivy.org/)
 * [EffBot.org Introduction to Tkinter](http://effbot.org/tkinterbook/tkinter-index.htm)
-* [Pytkgen: JSON to Tkinter GUI Generator](https://github.com/tmetsch/pytkgen) ⭐ 121 | 🐛 2 | 🌐 Python | 📅 2020-06-22
 * [Intro to programming with Python and Tkinter](https://wiki.python.org/moin/Intro%20to%20programming%20with%20Python%20and%20Tkinter)
 * [Tkinter Course - Create Graphic User Interfaces in Python Tutorial](https://www.youtube.com/watch?v=YXPyB4XeYLA)
 * [Python - GUI Programming (Tkinter)](https://www.tutorialspoint.com/python/python_gui_programming.htm)
@@ -499,14 +499,14 @@
 
 ## Deep Learning
 
+* [Python implementation of several famous Deep Learning papers](https://github.com/fchollet/keras/tree/master/examples) ⭐ 64,249 | 🐛 245 | 🌐 Python | 📅 2026-08-21
 * [Build your first Neural Network with Python and Keras](http://machinelearningmastery.com/tutorial-first-neural-network-python-keras/)
 * [Building powerful image classification models using very little data](https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html)
-* [Python implementation of several famous Deep Learning papers](https://github.com/fchollet/keras/tree/master/examples) ⭐ 64,247 | 🐛 240 | 🌐 Python | 📅 2026-08-21
 
 ## IPython Notebooks
 
 * [A gallery of data science IPython notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) ⭐ 29,312 | 🐛 48 | 🌐 Python | 📅 2024-03-20
-* [A Gallery of Interesting IPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks) ⭐ 16,774 | 🐛 1,293 | 🌐 Python | 📅 2026-08-18
+* [A Gallery of Interesting IPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks) ⭐ 16,774 | 🐛 1,293 | 🌐 Python | 📅 2026-08-24
 * [Python for Geosciences](https://github.com/koldunovn/python_for_geosciences) ⭐ 479 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2020-04-29
 * [Get Started with Python](https://github.com/rajathkumarmp/Python-Lectures) ⭐ 397 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2020-10-02
 * [Jupyter Notebooks derived from Allen Downey's Think Bayes](https://github.com/rlabbe/ThinkBayes) ⭐ 396 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2016-02-25
@@ -531,8 +531,8 @@
 
 ## Design Patterns
 
-* [Python Best Practice Patterns by Vladimir Keleshev](http://www.youtube.com/watch?v=GZNUfkVIHAY)
 * [28 Design Patterns in Python and Several Other Languages](https://github.com/oxnz/design-patterns) ⭐ 111 | 🐛 1 | 🌐 Perl | 📅 2025-10-11
+* [Python Best Practice Patterns by Vladimir Keleshev](http://www.youtube.com/watch?v=GZNUfkVIHAY)
 * [Factory Pattern In Python](http://web.archive.org/web/20131008172420/http://dailypython.wordpress.com/2013/08/04/factory-pattern-in-python/)
 * [Wishful Coding in Python: a Problem Solving Philosophy](https://www.codementor.io/python/tutorial/wishful-coding-python-solving-big-problems)
 
@@ -571,7 +571,7 @@
 
 ### Free
 
-* [Free Programming Books - Python](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#python) ⭐ 395,092 | 🐛 85 | 🌐 Python | 📅 2026-08-18
+* [Free Programming Books - Python](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#python) ⭐ 395,133 | 🐛 85 | 🌐 Python | 📅 2026-08-18
 * [Python Programming - Free Computer Books](http://freecomputerbooks.com/langPythonBooks.html)
 * [Some free books on Python](http://pythonbooks.revolunet.com/)
 * [Invent with Python](http://inventwithpython.com/chapters/)
@@ -595,10 +595,10 @@
 
 ## Online Courses and Challenges
 
+* [Interactive, test-driven Python coding challenges](https://github.com/donnemartin/interactive-coding-challenges) ⭐ 31,747 | 🐛 75 | 🌐 Python | 📅 2024-05-08
 * [A Gentle Introduction to Programming Using Python](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/index.htm)
 * [Python Challenges](http://www.pythonchallenge.com/)
 * [Project Euler](http://projecteuler.net)
-* [Interactive, test-driven Python coding challenges](https://github.com/donnemartin/interactive-coding-challenges) ⭐ 31,747 | 🐛 75 | 🌐 Python | 📅 2024-05-08
 
 ## Discussions
 
@@ -617,6 +617,7 @@
 
 ## Videos
 
+* [Must-watch videos about Python by s16h](https://github.com/s16h/py-must-watch) ⭐ 3,339 | 🐛 25 | 🌐 HTML | 📅 2021-10-27
 * [Guido Van Rossum on the history of Python](http://www.youtube.com/watch?v=ugqu10JV7dk)
 * [Type Hints - Guido van Rossum - PyCon 2015](https://www.youtube.com/watch?v=2wDvzy6Hgxg)
 * [PyVideo](http://pyvideo.org/)
@@ -628,10 +629,10 @@
 * [A Billion Rows per Second: Metaprogramming Python for Big Data](https://www.youtube.com/watch?v=rXj5nayS7Yg)
 * [The newboston site tutorial](https://thenewboston.com/videos.php?cat=36) - [Python 3 version](https://thenewboston.com/videos.php?cat=98)
 * [Python Programming Tutorials](https://www.youtube.com/playlist?list=PLEA1FEF17E1E5C0DA\&feature=plcp)
-* [Must-watch videos about Python by s16h](https://github.com/s16h/py-must-watch) ⭐ 3,339 | 🐛 25 | 🌐 HTML | 📅 2021-10-27
 
 ## Editors and IDE's for Python programming
 
+* [Emacs for python](https://github.com/gabrielelanaro/emacs-for-python) ⭐ 803 | 🐛 24 | 🌐 Emacs Lisp | 📅 2016-04-28
 * [Setting up Sublime Text for Python Development](http://dbader.org/blog/setting-up-sublime-text-for-python-development)
 * [Sublime Text 2 Love by Kenneth Reitz](http://kennethreitz.org/sublime-text-2-love/)
 * [Sublime Text 2 tips for Python and web developers](http://opensourcehacker.com/2012/05/11/sublime-text-2-tips-for-python-and-web-developers/)
@@ -641,7 +642,6 @@
 * [PyDev](http://pydev.org)
 * [Ninja-IDE](http://ninja-ide.org/)
 * [Emacs setup for python development environment](http://web.archive.org/web/20141026080721/http://caisah.info/archive/emacs-for-python.pdf)
-* [Emacs for python](https://github.com/gabrielelanaro/emacs-for-python) ⭐ 803 | 🐛 24 | 🌐 Emacs Lisp | 📅 2016-04-28
 * [Python Anywhere](https://www.pythonanywhere.com/)
 * [PythonBuddy](http://pythonbuddy.com/)
 * [ExtendsClass](https://extendsclass.com/python.html)
@@ -669,11 +669,11 @@
 
 ## Miscellaneous
 
+* [Projects - A list of practical projects](https://github.com/thekarangoel/Projects) ⭐ 47,887 | 🐛 123 | 📅 2024-08-14
 * [Good to great Python reads](http://jessenoller.com/good-to-great-python-reads/)
 * [How to Create Barcodes in Your PDFs with Python](http://java.dzone.com/articles/how-create-barcodes-your-pdfs)
 * [What are some good Python interview questions ?](http://www.quora.com/What-are-good-Python-interview-questions)
 * [Python innards introduction](http://tech.blog.aknin.name/2010/04/02/pythons-innards-introduction/)
-* [Projects - A list of practical projects](https://github.com/thekarangoel/Projects) ⭐ 47,886 | 🐛 123 | 📅 2024-08-14
 * [More Python Tutorials](http://web.archive.org/web/20141030172027/http://www.awaretek.com/tutorials.html)
 * [Developer Tools in Python](http://pypix.com/tools-and-tips/developer-tools/)
 * [The Best of Python in 2013](http://pypix.com/roundups/best-python-2013/)
