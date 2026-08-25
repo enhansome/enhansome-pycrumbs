@@ -304,7 +304,7 @@
 
 ## Contributing to Python Development
 
-* [The CPython Developer's Guide](https://github.com/python/devguide) ⭐ 2,102 | 🐛 103 | 🌐 Python | 📅 2026-08-24
+* [The CPython Developer's Guide](https://github.com/python/devguide) ⭐ 2,102 | 🐛 102 | 🌐 Python | 📅 2026-08-24
 
 ## Warts and Gotchas
 
@@ -324,7 +324,7 @@
 
 #### Flask
 
-* [A repository of Flask resources](https://github.com/humiaozuzu/awesome-flask) ⭐ 12,753 | 🐛 2 | 📅 2026-08-17
+* [A repository of Flask resources](https://github.com/humiaozuzu/awesome-flask) ⭐ 12,755 | 🐛 2 | 📅 2026-08-17
 * [Flask Mega Tutorial Series](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 * [Designing a RESTful API with Python and Flask](http://blog.miguelgrinberg.com/post/designing-a-restful-api-with-python-and-flask)
 * [How I structure my Flask apps](http://web.archive.org/web/20160324134243/http://mattupstate.com/python/2013/06/26/how-i-structure-my-flask-applications.html)
@@ -499,7 +499,7 @@
 
 ## Deep Learning
 
-* [Python implementation of several famous Deep Learning papers](https://github.com/fchollet/keras/tree/master/examples) ⭐ 64,249 | 🐛 245 | 🌐 Python | 📅 2026-08-24
+* [Python implementation of several famous Deep Learning papers](https://github.com/fchollet/keras/tree/master/examples) ⭐ 64,249 | 🐛 246 | 🌐 Python | 📅 2026-08-24
 * [Build your first Neural Network with Python and Keras](http://machinelearningmastery.com/tutorial-first-neural-network-python-keras/)
 * [Building powerful image classification models using very little data](https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html)
 
@@ -571,7 +571,7 @@
 
 ### Free
 
-* [Free Programming Books - Python](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#python) ⭐ 395,164 | 🐛 87 | 🌐 Python | 📅 2026-08-18
+* [Free Programming Books - Python](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#python) ⭐ 395,172 | 🐛 87 | 🌐 Python | 📅 2026-08-18
 * [Python Programming - Free Computer Books](http://freecomputerbooks.com/langPythonBooks.html)
 * [Some free books on Python](http://pythonbooks.revolunet.com/)
 * [Invent with Python](http://inventwithpython.com/chapters/)
@@ -669,7 +669,7 @@
 
 ## Miscellaneous
 
-* [Projects - A list of practical projects](https://github.com/thekarangoel/Projects) ⭐ 47,889 | 🐛 123 | 📅 2024-08-14
+* [Projects - A list of practical projects](https://github.com/thekarangoel/Projects) ⭐ 47,890 | 🐛 123 | 📅 2024-08-14
 * [Good to great Python reads](http://jessenoller.com/good-to-great-python-reads/)
 * [How to Create Barcodes in Your PDFs with Python](http://java.dzone.com/articles/how-create-barcodes-your-pdfs)
 * [What are some good Python interview questions ?](http://www.quora.com/What-are-good-Python-interview-questions)
