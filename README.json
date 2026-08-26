@@ -15,7 +15,7 @@
             "last_commit": "2024-08-18T20:33:41Z",
             "owner": "gregmalcolm",
             "repo": "python_koans",
-            "stars": 5113
+            "stars": 5114
           }
         }
       ],
@@ -103,10 +103,10 @@
             "archived": false,
             "id": 63972479,
             "language": "Python",
-            "last_commit": "2026-08-24T11:37:42Z",
+            "last_commit": "2026-08-25T19:36:30Z",
             "owner": "python",
             "repo": "devguide",
-            "stars": 2102
+            "stars": 2103
           }
         }
       ],
@@ -131,7 +131,7 @@
                     "last_commit": "2026-08-17T02:06:31Z",
                     "owner": "humiaozuzu",
                     "repo": "awesome-flask",
-                    "stars": 12755
+                    "stars": 12754
                   }
                 }
               ],
@@ -237,10 +237,10 @@
             "archived": false,
             "id": 33015583,
             "language": "Python",
-            "last_commit": "2026-08-24T18:42:25Z",
+            "last_commit": "2026-08-25T22:53:58Z",
             "owner": "keras-team",
             "repo": "keras",
-            "stars": 64249
+            "stars": 64250
           }
         }
       ],
@@ -261,7 +261,7 @@
             "last_commit": "2024-03-20T13:52:34Z",
             "owner": "donnemartin",
             "repo": "data-science-ipython-notebooks",
-            "stars": 29315
+            "stars": 29319
           }
         },
         {
@@ -273,7 +273,7 @@
             "archived": false,
             "id": 658518,
             "language": "Python",
-            "last_commit": "2026-08-24T11:05:48Z",
+            "last_commit": "2026-08-25T16:25:34Z",
             "owner": "ipython",
             "repo": "ipython",
             "stars": 16773
@@ -365,7 +365,7 @@
                 "last_commit": "2026-08-18T14:16:15Z",
                 "owner": "EbookFoundation",
                 "repo": "free-programming-books",
-                "stars": 395172
+                "stars": 395227
               }
             }
           ],
@@ -391,7 +391,7 @@
             "last_commit": "2024-05-08T23:07:36Z",
             "owner": "donnemartin",
             "repo": "interactive-coding-challenges",
-            "stars": 31750
+            "stars": 31752
           }
         }
       ],
@@ -454,7 +454,7 @@
             "last_commit": "2024-08-14T19:06:05Z",
             "owner": "karan",
             "repo": "Projects",
-            "stars": 47890
+            "stars": 47888
           }
         }
       ],
@@ -462,7 +462,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:54:07.611Z",
+    "last_updated": "2026-08-26T02:52:26.640Z",
     "original_repository": "kirang89/pycrumbs",
     "original_repository_id": 11072123,
     "original_repository_sha": "6b813d2a8f8fa12f966f9fb86ed8a1538e54583d",
