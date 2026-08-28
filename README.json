@@ -15,8 +15,9 @@
             "last_commit": "2024-08-18T20:33:41Z",
             "owner": "gregmalcolm",
             "repo": "python_koans",
-            "stars": 5113
-          }
+            "stars": 5114
+          },
+          "first_seen": "2026-08-28T13:22:50.502Z"
         }
       ],
       "title": "Beginner's Delight"
@@ -37,7 +38,8 @@
             "owner": "brainsik",
             "repo": "virtualenv-burrito",
             "stars": 837
-          }
+          },
+          "first_seen": "2026-08-28T13:22:50.502Z"
         }
       ],
       "title": "Environments and Environment Management"
@@ -58,7 +60,8 @@
             "owner": "audreyfeldroy",
             "repo": "how-to",
             "stars": 60
-          }
+          },
+          "first_seen": "2026-08-28T13:22:50.502Z"
         }
       ],
       "title": "Testing"
@@ -81,7 +84,8 @@
                 "owner": "rabidgremlin",
                 "repo": "dev-ops-snippets",
                 "stars": 244
-              }
+              },
+              "first_seen": "2026-08-28T13:22:50.502Z"
             }
           ],
           "description": null,
@@ -107,7 +111,8 @@
             "owner": "python",
             "repo": "devguide",
             "stars": 2104
-          }
+          },
+          "first_seen": "2026-08-28T13:22:50.502Z"
         }
       ],
       "title": "Contributing to Python Development"
@@ -131,8 +136,9 @@
                     "last_commit": "2026-08-17T02:06:31Z",
                     "owner": "humiaozuzu",
                     "repo": "awesome-flask",
-                    "stars": 12755
-                  }
+                    "stars": 12756
+                  },
+                  "first_seen": "2026-08-28T13:22:50.502Z"
                 }
               ],
               "description": null,
@@ -159,7 +165,8 @@
                 "owner": "hackerlist",
                 "repo": "glassdoor",
                 "stars": 82
-              }
+              },
+              "first_seen": "2026-08-28T13:22:50.502Z"
             }
           ],
           "description": null,
@@ -189,7 +196,8 @@
                     "owner": "SamyPesse",
                     "repo": "glass.py",
                     "stars": 279
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:22:50.502Z"
                 }
               ],
               "description": null,
@@ -220,7 +228,8 @@
             "owner": "tmetsch",
             "repo": "pytkgen",
             "stars": 121
-          }
+          },
+          "first_seen": "2026-08-28T13:22:50.502Z"
         }
       ],
       "title": "GUI Programming"
@@ -240,8 +249,9 @@
             "last_commit": "2026-08-26T22:12:59Z",
             "owner": "keras-team",
             "repo": "keras",
-            "stars": 64255
-          }
+            "stars": 64261
+          },
+          "first_seen": "2026-08-28T13:22:50.502Z"
         }
       ],
       "title": "Deep Learning"
@@ -261,8 +271,9 @@
             "last_commit": "2024-03-20T13:52:34Z",
             "owner": "donnemartin",
             "repo": "data-science-ipython-notebooks",
-            "stars": 29327
-          }
+            "stars": 29329
+          },
+          "first_seen": "2026-08-28T13:22:50.502Z"
         },
         {
           "node_type": "item",
@@ -273,11 +284,12 @@
             "archived": false,
             "id": 658518,
             "language": "Python",
-            "last_commit": "2026-08-26T12:05:21Z",
+            "last_commit": "2026-08-28T09:00:30Z",
             "owner": "ipython",
             "repo": "ipython",
             "stars": 16774
-          }
+          },
+          "first_seen": "2026-08-28T13:22:50.502Z"
         },
         {
           "node_type": "item",
@@ -292,7 +304,8 @@
             "owner": "koldunovn",
             "repo": "python_for_geosciences",
             "stars": 479
-          }
+          },
+          "first_seen": "2026-08-28T13:22:50.502Z"
         },
         {
           "node_type": "item",
@@ -306,8 +319,9 @@
             "last_commit": "2020-10-02T07:57:10Z",
             "owner": "rajathkmp",
             "repo": "Python-Lectures",
-            "stars": 397
-          }
+            "stars": 398
+          },
+          "first_seen": "2026-08-28T13:22:50.502Z"
         },
         {
           "node_type": "item",
@@ -322,7 +336,8 @@
             "owner": "rlabbe",
             "repo": "ThinkBayes",
             "stars": 396
-          }
+          },
+          "first_seen": "2026-08-28T13:22:50.502Z"
         }
       ],
       "title": "IPython Notebooks"
@@ -343,7 +358,8 @@
             "owner": "oxnz",
             "repo": "design-patterns",
             "stars": 111
-          }
+          },
+          "first_seen": "2026-08-28T13:22:50.502Z"
         }
       ],
       "title": "Design Patterns"
@@ -365,8 +381,9 @@
                 "last_commit": "2026-08-18T14:16:15Z",
                 "owner": "EbookFoundation",
                 "repo": "free-programming-books",
-                "stars": 395318
-              }
+                "stars": 395424
+              },
+              "first_seen": "2026-08-28T13:22:50.502Z"
             }
           ],
           "description": null,
@@ -391,8 +408,9 @@
             "last_commit": "2024-05-08T23:07:36Z",
             "owner": "donnemartin",
             "repo": "interactive-coding-challenges",
-            "stars": 31756
-          }
+            "stars": 31763
+          },
+          "first_seen": "2026-08-28T13:22:50.502Z"
         }
       ],
       "title": "Online Courses and Challenges"
@@ -413,7 +431,8 @@
             "owner": "s16h",
             "repo": "py-must-watch",
             "stars": 3339
-          }
+          },
+          "first_seen": "2026-08-28T13:22:50.502Z"
         }
       ],
       "title": "Videos"
@@ -434,7 +453,8 @@
             "owner": "gabrielelanaro",
             "repo": "emacs-for-python",
             "stars": 803
-          }
+          },
+          "first_seen": "2026-08-28T13:22:50.502Z"
         }
       ],
       "title": "Editors and IDE's for Python programming"
@@ -454,15 +474,16 @@
             "last_commit": "2024-08-14T19:06:05Z",
             "owner": "karan",
             "repo": "Projects",
-            "stars": 47894
-          }
+            "stars": 47895
+          },
+          "first_seen": "2026-08-28T13:22:50.502Z"
         }
       ],
       "title": "Miscellaneous"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:13:11.585Z",
+    "last_updated": "2026-08-28T13:22:50.502Z",
     "original_repository_info": {
       "archived": false,
       "id": 11072123,
@@ -470,7 +491,7 @@
       "last_commit": "2023-07-04T14:47:41Z",
       "owner": "kirang89",
       "repo": "pycrumbs",
-      "stars": 3256
+      "stars": 3255
     },
     "original_repository_sha": "6b813d2a8f8fa12f966f9fb86ed8a1538e54583d",
     "enhanced_repository": "enhansome/enhansome-pycrumbs",
