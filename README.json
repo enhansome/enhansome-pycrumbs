@@ -10,12 +10,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python Koans - Learn Python through TDD",
+            "homepage": null,
             "id": 541456,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-08-18T20:33:41Z",
+            "open_issues": 27,
             "owner": "gregmalcolm",
             "repo": "python_koans",
-            "stars": 5114
+            "stars": 5113,
+            "topics": [
+              "koans",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T13:22:50.502Z"
         }
@@ -32,12 +40,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "One command to have a working virtualenv + virtualenvwrapper environment.",
+            "homepage": null,
             "id": 1488618,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2019-02-11T20:29:09Z",
+            "open_issues": 8,
             "owner": "brainsik",
             "repo": "virtualenv-burrito",
-            "stars": 837
+            "stars": 837,
+            "topics": [
+              "python",
+              "virtualenv",
+              "virtualenvwrapper"
+            ]
           },
           "first_seen": "2026-08-28T13:22:50.502Z"
         }
@@ -54,12 +71,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A set of quick 1-page how-to guides. These are really just notes that I write for myself, to aid my own memory and learning.",
+            "homepage": null,
             "id": 12020194,
             "language": null,
+            "license": null,
             "last_commit": "2017-04-28T15:39:05Z",
+            "open_issues": 1,
             "owner": "audreyfeldroy",
             "repo": "how-to",
-            "stars": 60
+            "stars": 60,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:22:50.502Z"
         }
@@ -78,12 +100,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Various Vagrant, Ansible etc snippets",
+                "homepage": null,
                 "id": 36468726,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2016-03-20T18:31:23Z",
+                "open_issues": 0,
                 "owner": "rabidgremlin",
                 "repo": "dev-ops-snippets",
-                "stars": 244
+                "stars": 244,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:22:50.502Z"
             }
@@ -105,12 +132,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Python developer's guide",
+            "homepage": "https://devguide.python.org/",
             "id": 63972479,
             "language": "Python",
+            "license": "CC0-1.0",
             "last_commit": "2026-08-26T22:19:41Z",
+            "open_issues": 102,
             "owner": "python",
             "repo": "devguide",
-            "stars": 2104
+            "stars": 2104,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:22:50.502Z"
         }
@@ -131,12 +163,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A curated list of awesome Flask resources and plugins",
+                    "homepage": null,
                     "id": 17537748,
                     "language": null,
+                    "license": "CC0-1.0",
                     "last_commit": "2026-08-17T02:06:31Z",
+                    "open_issues": 2,
                     "owner": "humiaozuzu",
                     "repo": "awesome-flask",
-                    "stars": 12756
+                    "stars": 12757,
+                    "topics": [
+                      "awesome",
+                      "awesome-list",
+                      "flask",
+                      "flask-resources",
+                      "python"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:22:50.502Z"
                 }
@@ -159,12 +202,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python API for Glassdoor.com",
+                "homepage": null,
                 "id": 8571962,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2016-07-27T02:04:00Z",
+                "open_issues": 6,
                 "owner": "hackerlist",
                 "repo": "glassdoor",
-                "stars": 82
+                "stars": 82,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:22:50.502Z"
             }
@@ -190,12 +238,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Create python web applications for Google Glass",
+                    "homepage": null,
                     "id": 12152452,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2013-12-28T13:44:48Z",
+                    "open_issues": 5,
                     "owner": "SamyPesse",
                     "repo": "glass.py",
-                    "stars": 279
+                    "stars": 279,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:22:50.502Z"
                 }
@@ -222,12 +275,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create Tkinter GUIs from JSON definition files.",
+            "homepage": "http://tmetsch.github.io/pytkgen/",
             "id": 1640110,
             "language": "Python",
+            "license": "LGPL-3.0",
             "last_commit": "2020-06-22T08:08:50Z",
+            "open_issues": 2,
             "owner": "tmetsch",
             "repo": "pytkgen",
-            "stars": 121
+            "stars": 121,
+            "topics": [
+              "gui",
+              "json",
+              "tk",
+              "tkinter"
+            ]
           },
           "first_seen": "2026-08-28T13:22:50.502Z"
         }
@@ -244,12 +307,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deep Learning for humans",
+            "homepage": "http://keras.io/",
             "id": 33015583,
             "language": "Python",
-            "last_commit": "2026-08-26T22:12:59Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T23:44:04Z",
+            "open_issues": 232,
             "owner": "keras-team",
             "repo": "keras",
-            "stars": 64261
+            "stars": 64265,
+            "topics": [
+              "data-science",
+              "deep-learning",
+              "jax",
+              "machine-learning",
+              "neural-networks",
+              "python",
+              "pytorch",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T13:22:50.502Z"
         }
@@ -266,12 +343,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.",
+            "homepage": null,
             "id": 29749635,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-03-20T13:52:34Z",
+            "open_issues": 48,
             "owner": "donnemartin",
             "repo": "data-science-ipython-notebooks",
-            "stars": 29329
+            "stars": 29331,
+            "topics": [
+              "aws",
+              "big-data",
+              "caffe",
+              "data-science",
+              "deep-learning",
+              "hadoop",
+              "kaggle",
+              "keras",
+              "machine-learning",
+              "mapreduce",
+              "matplotlib",
+              "numpy",
+              "pandas",
+              "python",
+              "scikit-learn",
+              "scipy",
+              "spark",
+              "tensorflow",
+              "theano"
+            ]
           },
           "first_seen": "2026-08-28T13:22:50.502Z"
         },
@@ -282,12 +384,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc.",
+            "homepage": "https://ipython.readthedocs.org",
             "id": 658518,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-28T09:00:30Z",
+            "open_issues": 1279,
             "owner": "ipython",
             "repo": "ipython",
-            "stars": 16774
+            "stars": 16773,
+            "topics": [
+              "closember",
+              "data-science",
+              "hacktoberfest",
+              "ipython",
+              "jupyter",
+              "notebook",
+              "python",
+              "repl",
+              "spec-0"
+            ]
           },
           "first_seen": "2026-08-28T13:22:50.502Z"
         },
@@ -298,12 +415,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Introduction to python use in geosciences. ",
+            "homepage": null,
             "id": 13816054,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2020-04-29T18:36:01Z",
+            "open_issues": 0,
             "owner": "koldunovn",
             "repo": "python_for_geosciences",
-            "stars": 479
+            "stars": 479,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:22:50.502Z"
         },
@@ -314,12 +436,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "IPython Notebooks to learn Python",
+            "homepage": null,
             "id": 43194764,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2020-10-02T07:57:10Z",
+            "open_issues": 4,
             "owner": "rajathkmp",
             "repo": "Python-Lectures",
-            "stars": 398
+            "stars": 398,
+            "topics": [
+              "ipython-notebook",
+              "python",
+              "tutorial"
+            ]
           },
           "first_seen": "2026-08-28T13:22:50.502Z"
         },
@@ -330,12 +461,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Jupyter Notebooks derived from Allen Downey's book Think Bayes.",
+            "homepage": null,
             "id": 40188472,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2016-02-25T15:34:31Z",
+            "open_issues": 0,
             "owner": "rlabbe",
             "repo": "ThinkBayes",
-            "stars": 396
+            "stars": 396,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:22:50.502Z"
         }
@@ -352,12 +488,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "design patterns impelemented in serveral programming languages",
+            "homepage": null,
             "id": 12997422,
             "language": "Perl",
+            "license": "MIT",
             "last_commit": "2025-10-11T07:47:04Z",
+            "open_issues": 1,
             "owner": "oxnz",
             "repo": "design-patterns",
-            "stars": 111
+            "stars": 111,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:22:50.502Z"
         }
@@ -376,12 +517,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":books: Freely available programming books",
+                "homepage": "https://ebookfoundation.github.io/free-programming-books/",
                 "id": 13491895,
                 "language": "Python",
+                "license": "CC-BY-4.0",
                 "last_commit": "2026-08-18T14:16:15Z",
+                "open_issues": 92,
                 "owner": "EbookFoundation",
                 "repo": "free-programming-books",
-                "stars": 395424
+                "stars": 395482,
+                "topics": [
+                  "books",
+                  "education",
+                  "hacktoberfest",
+                  "list",
+                  "resource"
+                ]
               },
               "first_seen": "2026-08-28T13:22:50.502Z"
             }
@@ -403,12 +555,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.",
+            "homepage": null,
             "id": 34757182,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-05-08T23:07:36Z",
+            "open_issues": 75,
             "owner": "donnemartin",
             "repo": "interactive-coding-challenges",
-            "stars": 31763
+            "stars": 31767,
+            "topics": [
+              "algorithm",
+              "coding",
+              "competitive-programming",
+              "data-structure",
+              "development",
+              "interview",
+              "interview-practice",
+              "interview-questions",
+              "programming",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T13:22:50.502Z"
         }
@@ -425,12 +593,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Must-watch videos about Python",
+            "homepage": "http://pymust.watch/",
             "id": 21736086,
             "language": "HTML",
+            "license": null,
             "last_commit": "2021-10-27T19:04:28Z",
+            "open_issues": 25,
             "owner": "s16h",
             "repo": "py-must-watch",
-            "stars": 3339
+            "stars": 3340,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:22:50.502Z"
         }
@@ -447,12 +620,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of emacs extensions specifically collected for python development, with workflow guidelines!",
+            "homepage": "http://gabrielelanaro.github.com/emacs-for-python",
             "id": 701945,
             "language": "Emacs Lisp",
+            "license": "GPL-3.0",
             "last_commit": "2016-04-28T09:57:56Z",
+            "open_issues": 24,
             "owner": "gabrielelanaro",
             "repo": "emacs-for-python",
-            "stars": 803
+            "stars": 803,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:22:50.502Z"
         }
@@ -469,12 +647,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":page_with_curl: A list of practical projects that anyone can solve in any programming language.",
+            "homepage": "https://twitter.com/karangoel",
             "id": 11177928,
             "language": null,
+            "license": "MIT",
             "last_commit": "2024-08-14T19:06:05Z",
+            "open_issues": 123,
             "owner": "karan",
             "repo": "Projects",
-            "stars": 47895
+            "stars": 47897,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:22:50.502Z"
         }
@@ -483,15 +666,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T13:22:50.502Z",
+    "last_updated": "2026-08-29T04:22:26.195Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Bits and bytes of Python from the Internet",
+      "homepage": null,
       "id": 11072123,
       "language": null,
+      "license": "Unlicense",
       "last_commit": "2023-07-04T14:47:41Z",
+      "open_issues": 9,
       "owner": "kirang89",
       "repo": "pycrumbs",
-      "stars": 3255
+      "stars": 3255,
+      "topics": [
+        "awesome-list",
+        "links",
+        "python"
+      ]
     },
     "original_repository_sha": "6b813d2a8f8fa12f966f9fb86ed8a1538e54583d",
     "enhanced_repository": "enhansome/enhansome-pycrumbs",
