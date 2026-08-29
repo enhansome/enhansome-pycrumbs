@@ -313,10 +313,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-08-28T23:44:04Z",
-            "open_issues": 232,
+            "open_issues": 233,
             "owner": "keras-team",
             "repo": "keras",
-            "stars": 64265,
+            "stars": 64267,
             "topics": [
               "data-science",
               "deep-learning",
@@ -352,7 +352,7 @@
             "open_issues": 48,
             "owner": "donnemartin",
             "repo": "data-science-ipython-notebooks",
-            "stars": 29331,
+            "stars": 29332,
             "topics": [
               "aws",
               "big-data",
@@ -393,7 +393,7 @@
             "open_issues": 1279,
             "owner": "ipython",
             "repo": "ipython",
-            "stars": 16773,
+            "stars": 16774,
             "topics": [
               "closember",
               "data-science",
@@ -526,7 +526,7 @@
                 "open_issues": 92,
                 "owner": "EbookFoundation",
                 "repo": "free-programming-books",
-                "stars": 395482,
+                "stars": 395494,
                 "topics": [
                   "books",
                   "education",
@@ -564,7 +564,7 @@
             "open_issues": 75,
             "owner": "donnemartin",
             "repo": "interactive-coding-challenges",
-            "stars": 31767,
+            "stars": 31768,
             "topics": [
               "algorithm",
               "coding",
@@ -666,7 +666,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:22:26.195Z",
+    "last_updated": "2026-08-29T08:18:34.403Z",
     "original_repository_info": {
       "archived": false,
       "description": "Bits and bytes of Python from the Internet",
