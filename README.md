@@ -499,13 +499,13 @@
 
 ## Deep Learning
 
-* [Python implementation of several famous Deep Learning papers](https://github.com/fchollet/keras/tree/master/examples) ⭐ 64,291 | 🐛 210 | 🌐 Python | 📅 2026-09-05
+* [Python implementation of several famous Deep Learning papers](https://github.com/fchollet/keras/tree/master/examples) ⭐ 64,320 | 🐛 212 | 🌐 Python | 📅 2026-09-05
 * [Build your first Neural Network with Python and Keras](http://machinelearningmastery.com/tutorial-first-neural-network-python-keras/)
 * [Building powerful image classification models using very little data](https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html)
 
 ## IPython Notebooks
 
-* [A gallery of data science IPython notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) ⭐ 29,339 | 🐛 48 | 🌐 Python | 📅 2024-03-20
+* [A gallery of data science IPython notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) ⭐ 29,340 | 🐛 48 | 🌐 Python | 📅 2024-03-20
 * [A Gallery of Interesting IPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks) ⭐ 16,775 | 🐛 1,278 | 🌐 Python | 📅 2026-09-01
 * [Python for Geosciences](https://github.com/koldunovn/python_for_geosciences) ⭐ 479 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2020-04-29
 * [Get Started with Python](https://github.com/rajathkumarmp/Python-Lectures) ⭐ 398 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2020-10-02
@@ -571,7 +571,7 @@
 
 ### Free
 
-* [Free Programming Books - Python](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#python) ⭐ 396,043 | 🐛 78 | 🌐 Python | 📅 2026-09-01
+* [Free Programming Books - Python](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#python) ⭐ 396,150 | 🐛 78 | 🌐 Python | 📅 2026-09-06
 * [Python Programming - Free Computer Books](http://freecomputerbooks.com/langPythonBooks.html)
 * [Some free books on Python](http://pythonbooks.revolunet.com/)
 * [Invent with Python](http://inventwithpython.com/chapters/)
@@ -595,7 +595,7 @@
 
 ## Online Courses and Challenges
 
-* [Interactive, test-driven Python coding challenges](https://github.com/donnemartin/interactive-coding-challenges) ⭐ 31,785 | 🐛 75 | 🌐 Python | 📅 2024-05-08
+* [Interactive, test-driven Python coding challenges](https://github.com/donnemartin/interactive-coding-challenges) ⭐ 31,787 | 🐛 75 | 🌐 Python | 📅 2024-05-08
 * [A Gentle Introduction to Programming Using Python](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/index.htm)
 * [Python Challenges](http://www.pythonchallenge.com/)
 * [Project Euler](http://projecteuler.net)
@@ -669,7 +669,7 @@
 
 ## Miscellaneous
 
-* [Projects - A list of practical projects](https://github.com/thekarangoel/Projects) ⭐ 47,915 | 🐛 123 | 📅 2024-08-14
+* [Projects - A list of practical projects](https://github.com/thekarangoel/Projects) ⭐ 47,916 | 🐛 123 | 📅 2024-08-14
 * [Good to great Python reads](http://jessenoller.com/good-to-great-python-reads/)
 * [How to Create Barcodes in Your PDFs with Python](http://java.dzone.com/articles/how-create-barcodes-your-pdfs)
 * [What are some good Python interview questions ?](http://www.quora.com/What-are-good-Python-interview-questions)
@@ -700,4 +700,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._

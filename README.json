@@ -313,10 +313,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-05T05:37:50Z",
-            "open_issues": 210,
+            "open_issues": 212,
             "owner": "keras-team",
             "repo": "keras",
-            "stars": 64291,
+            "stars": 64320,
             "topics": [
               "data-science",
               "deep-learning",
@@ -352,7 +352,7 @@
             "open_issues": 48,
             "owner": "donnemartin",
             "repo": "data-science-ipython-notebooks",
-            "stars": 29339,
+            "stars": 29340,
             "topics": [
               "aws",
               "big-data",
@@ -520,11 +520,11 @@
                 "id": 13491895,
                 "language": "Python",
                 "license": "CC-BY-4.0",
-                "last_commit": "2026-09-01T09:12:19Z",
+                "last_commit": "2026-09-06T22:01:27Z",
                 "open_issues": 78,
                 "owner": "EbookFoundation",
                 "repo": "free-programming-books",
-                "stars": 396043,
+                "stars": 396150,
                 "topics": [
                   "books",
                   "education",
@@ -562,7 +562,7 @@
             "open_issues": 75,
             "owner": "donnemartin",
             "repo": "interactive-coding-challenges",
-            "stars": 31785,
+            "stars": 31787,
             "topics": [
               "algorithm",
               "coding",
@@ -654,7 +654,7 @@
             "open_issues": 123,
             "owner": "karan",
             "repo": "Projects",
-            "stars": 47915,
+            "stars": 47916,
             "topics": []
           },
           "first_seen": "2026-08-28T13:22:50.502Z"
@@ -664,7 +664,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T06:31:11.425Z",
+    "last_updated": "2026-09-07T06:38:41.119Z",
     "original_repository_info": {
       "archived": false,
       "description": "Bits and bytes of Python from the Internet",
