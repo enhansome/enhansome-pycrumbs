@@ -19,7 +19,7 @@
             "open_issues": 27,
             "owner": "gregmalcolm",
             "repo": "python_koans",
-            "stars": 5116,
+            "stars": 5115,
             "topics": [
               "koans",
               "python"
@@ -49,7 +49,7 @@
             "open_issues": 8,
             "owner": "brainsik",
             "repo": "virtualenv-burrito",
-            "stars": 836,
+            "stars": 835,
             "topics": [
               "python",
               "virtualenv",
@@ -137,7 +137,7 @@
             "id": 63972479,
             "language": "Python",
             "license": "CC0-1.0",
-            "last_commit": "2026-09-18T04:23:19Z",
+            "last_commit": "2026-09-18T09:27:29Z",
             "open_issues": 106,
             "owner": "python",
             "repo": "devguide",
@@ -172,7 +172,7 @@
                     "open_issues": 5,
                     "owner": "humiaozuzu",
                     "repo": "awesome-flask",
-                    "stars": 12768,
+                    "stars": 12770,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -312,8 +312,8 @@
             "id": 33015583,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T01:39:07Z",
-            "open_issues": 202,
+            "last_commit": "2026-09-19T04:16:33Z",
+            "open_issues": 211,
             "owner": "keras-team",
             "repo": "keras",
             "stars": 64321,
@@ -390,10 +390,10 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-09-14T15:30:24Z",
-            "open_issues": 1290,
+            "open_issues": 1291,
             "owner": "ipython",
             "repo": "ipython",
-            "stars": 16784,
+            "stars": 16781,
             "topics": [
               "closember",
               "data-science",
@@ -521,10 +521,10 @@
                 "language": "Python",
                 "license": "CC-BY-4.0",
                 "last_commit": "2026-09-15T15:54:40Z",
-                "open_issues": 81,
+                "open_issues": 80,
                 "owner": "EbookFoundation",
                 "repo": "free-programming-books",
-                "stars": 397066,
+                "stars": 397173,
                 "topics": [
                   "books",
                   "education",
@@ -562,7 +562,7 @@
             "open_issues": 75,
             "owner": "donnemartin",
             "repo": "interactive-coding-challenges",
-            "stars": 31824,
+            "stars": 31829,
             "topics": [
               "algorithm",
               "coding",
@@ -600,7 +600,7 @@
             "open_issues": 25,
             "owner": "s16h",
             "repo": "py-must-watch",
-            "stars": 3341,
+            "stars": 3340,
             "topics": []
           },
           "first_seen": "2026-08-28T13:22:50.502Z"
@@ -664,7 +664,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T06:41:54.162Z",
+    "last_updated": "2026-09-19T06:40:01.370Z",
     "original_repository_info": {
       "archived": false,
       "description": "Bits and bytes of Python from the Internet",
