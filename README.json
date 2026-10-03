@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Python Koans: Learn Python through TDD",
-          "description": null,
+          "description": "gregmalcolm/python_koans",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -19,7 +19,7 @@
             "open_issues": 29,
             "owner": "gregmalcolm",
             "repo": "python_koans",
-            "stars": 5117,
+            "stars": 5114,
             "topics": [
               "koans",
               "python"
@@ -36,7 +36,7 @@
         {
           "node_type": "item",
           "title": "VirtualEnv Burrito = virtualenv + virtualenvwrapper",
-          "description": null,
+          "description": "brainsik/virtualenv-burrito",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -67,7 +67,7 @@
         {
           "node_type": "item",
           "title": "How To Use Coverage.py With Unittest",
-          "description": null,
+          "description": "audreyfeldroy/how-to",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -96,7 +96,7 @@
             {
               "node_type": "item",
               "title": "Example Ansible scripts for building a full AWS stack",
-              "description": null,
+              "description": "rabidgremlin/dev-ops-snippets",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -128,7 +128,7 @@
         {
           "node_type": "item",
           "title": "The CPython Developer's Guide",
-          "description": null,
+          "description": "python/devguide",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -159,7 +159,7 @@
                 {
                   "node_type": "item",
                   "title": "A repository of Flask resources",
-                  "description": null,
+                  "description": "humiaozuzu/awesome-flask",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -172,7 +172,7 @@
                     "open_issues": 7,
                     "owner": "humiaozuzu",
                     "repo": "awesome-flask",
-                    "stars": 12783,
+                    "stars": 12784,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -198,7 +198,7 @@
             {
               "node_type": "item",
               "title": "Glassdoor API",
-              "description": null,
+              "description": "hackerlist/glassdoor",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -211,7 +211,7 @@
                 "open_issues": 6,
                 "owner": "hackerlist",
                 "repo": "glassdoor",
-                "stars": 82,
+                "stars": 81,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:22:50.502Z"
@@ -234,7 +234,7 @@
                 {
                   "node_type": "item",
                   "title": "Create python web applications for Google Glass",
-                  "description": null,
+                  "description": "SamyPesse/glass.py",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -271,7 +271,7 @@
         {
           "node_type": "item",
           "title": "Pytkgen: JSON to Tkinter GUI Generator",
-          "description": null,
+          "description": "tmetsch/pytkgen",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -303,7 +303,7 @@
         {
           "node_type": "item",
           "title": "Python implementation of several famous Deep Learning papers",
-          "description": null,
+          "description": "keras-team/keras",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -312,11 +312,11 @@
             "id": 33015583,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T05:20:03Z",
-            "open_issues": 248,
+            "last_commit": "2026-10-02T22:17:14Z",
+            "open_issues": 255,
             "owner": "keras-team",
             "repo": "keras",
-            "stars": 64345,
+            "stars": 64348,
             "topics": [
               "data-science",
               "deep-learning",
@@ -339,7 +339,7 @@
         {
           "node_type": "item",
           "title": "A gallery of data science IPython notebooks",
-          "description": null,
+          "description": "donnemartin/data-science-ipython-notebooks",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -352,7 +352,7 @@
             "open_issues": 48,
             "owner": "donnemartin",
             "repo": "data-science-ipython-notebooks",
-            "stars": 29360,
+            "stars": 29359,
             "topics": [
               "aws",
               "big-data",
@@ -380,7 +380,7 @@
         {
           "node_type": "item",
           "title": "A Gallery of Interesting IPython Notebooks",
-          "description": null,
+          "description": "ipython/ipython",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -393,7 +393,7 @@
             "open_issues": 1305,
             "owner": "ipython",
             "repo": "ipython",
-            "stars": 16786,
+            "stars": 16785,
             "topics": [
               "closember",
               "data-science",
@@ -409,7 +409,7 @@
         {
           "node_type": "item",
           "title": "Python for Geosciences",
-          "description": null,
+          "description": "koldunovn/python_for_geosciences",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -430,7 +430,7 @@
         {
           "node_type": "item",
           "title": "Get Started with Python",
-          "description": null,
+          "description": "rajathkmp/Python-Lectures",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -455,7 +455,7 @@
         {
           "node_type": "item",
           "title": "Jupyter Notebooks derived from Allen Downey's Think Bayes",
-          "description": null,
+          "description": "rlabbe/ThinkBayes",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -482,7 +482,7 @@
         {
           "node_type": "item",
           "title": "28 Design Patterns in Python and Several Other Languages",
-          "description": null,
+          "description": "oxnz/design-patterns",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -511,7 +511,7 @@
             {
               "node_type": "item",
               "title": "Free Programming Books - Python",
-              "description": null,
+              "description": "EbookFoundation/free-programming-books",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -520,11 +520,11 @@
                 "id": 13491895,
                 "language": "Python",
                 "license": "CC-BY-4.0",
-                "last_commit": "2026-09-24T12:26:41Z",
-                "open_issues": 102,
+                "last_commit": "2026-10-02T19:35:16Z",
+                "open_issues": 85,
                 "owner": "EbookFoundation",
                 "repo": "free-programming-books",
-                "stars": 398289,
+                "stars": 398352,
                 "topics": [
                   "books",
                   "education",
@@ -549,7 +549,7 @@
         {
           "node_type": "item",
           "title": "Interactive, test-driven Python coding challenges",
-          "description": null,
+          "description": "donnemartin/interactive-coding-challenges",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -587,7 +587,7 @@
         {
           "node_type": "item",
           "title": "Must-watch videos about Python by s16h",
-          "description": null,
+          "description": "s16h/py-must-watch",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -614,7 +614,7 @@
         {
           "node_type": "item",
           "title": "Emacs for python",
-          "description": null,
+          "description": "gabrielelanaro/emacs-for-python",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -627,7 +627,7 @@
             "open_issues": 24,
             "owner": "gabrielelanaro",
             "repo": "emacs-for-python",
-            "stars": 802,
+            "stars": 798,
             "topics": []
           },
           "first_seen": "2026-08-28T13:22:50.502Z"
@@ -641,7 +641,7 @@
         {
           "node_type": "item",
           "title": "Projects - A list of practical projects",
-          "description": null,
+          "description": "karan/Projects",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -654,7 +654,7 @@
             "open_issues": 123,
             "owner": "karan",
             "repo": "Projects",
-            "stars": 47967,
+            "stars": 47970,
             "topics": []
           },
           "first_seen": "2026-08-28T13:22:50.502Z"
@@ -664,7 +664,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T07:32:46.488Z",
+    "last_updated": "2026-10-03T05:02:48.804Z",
     "original_repository_info": {
       "archived": false,
       "description": "Bits and bytes of Python from the Internet",
