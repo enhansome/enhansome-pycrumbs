@@ -19,7 +19,7 @@
             "open_issues": 29,
             "owner": "gregmalcolm",
             "repo": "python_koans",
-            "stars": 5114,
+            "stars": 5115,
             "topics": [
               "koans",
               "python"
@@ -138,10 +138,10 @@
             "language": "Python",
             "license": "CC0-1.0",
             "last_commit": "2026-10-01T17:51:46Z",
-            "open_issues": 105,
+            "open_issues": 106,
             "owner": "python",
             "repo": "devguide",
-            "stars": 2112,
+            "stars": 2111,
             "topics": []
           },
           "first_seen": "2026-08-28T13:22:50.502Z"
@@ -172,7 +172,7 @@
                     "open_issues": 7,
                     "owner": "humiaozuzu",
                     "repo": "awesome-flask",
-                    "stars": 12784,
+                    "stars": 12782,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -313,10 +313,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-02T22:17:14Z",
-            "open_issues": 255,
+            "open_issues": 261,
             "owner": "keras-team",
             "repo": "keras",
-            "stars": 64348,
+            "stars": 64347,
             "topics": [
               "data-science",
               "deep-learning",
@@ -390,7 +390,7 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-01T04:12:10Z",
-            "open_issues": 1305,
+            "open_issues": 1306,
             "owner": "ipython",
             "repo": "ipython",
             "stars": 16785,
@@ -521,10 +521,10 @@
                 "language": "Python",
                 "license": "CC-BY-4.0",
                 "last_commit": "2026-10-02T19:35:16Z",
-                "open_issues": 86,
+                "open_issues": 88,
                 "owner": "EbookFoundation",
                 "repo": "free-programming-books",
-                "stars": 398360,
+                "stars": 398432,
                 "topics": [
                   "books",
                   "education",
@@ -562,7 +562,7 @@
             "open_issues": 75,
             "owner": "donnemartin",
             "repo": "interactive-coding-challenges",
-            "stars": 31890,
+            "stars": 31891,
             "topics": [
               "algorithm",
               "coding",
@@ -664,7 +664,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T07:06:57.477Z",
+    "last_updated": "2026-10-04T07:25:11.380Z",
     "original_repository_info": {
       "archived": false,
       "description": "Bits and bytes of Python from the Internet",

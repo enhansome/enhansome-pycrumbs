@@ -77,7 +77,7 @@
 
 ## Beginner's Delight
 
-* [Python Koans: Learn Python through TDD](https://github.com/gregmalcolm/python_koans) ⭐ 5,114 | 🐛 29 | 🌐 Python | 📅 2024-08-18
+* [Python Koans: Learn Python through TDD](https://github.com/gregmalcolm/python_koans) ⭐ 5,115 | 🐛 29 | 🌐 Python | 📅 2024-08-18
 * [Beginner's guide to Python](http://wiki.python.org/moin/BeginnersGuide)
 * [The Hitchhiker's guide to Python](http://docs.python-guide.org/en/latest/)
 * [Learn Python the hard way](http://learnpythonthehardway.org/book/)
@@ -304,7 +304,7 @@
 
 ## Contributing to Python Development
 
-* [The CPython Developer's Guide](https://github.com/python/devguide) ⭐ 2,112 | 🐛 105 | 🌐 Python | 📅 2026-10-01
+* [The CPython Developer's Guide](https://github.com/python/devguide) ⭐ 2,111 | 🐛 106 | 🌐 Python | 📅 2026-10-01
 
 ## Warts and Gotchas
 
@@ -324,7 +324,7 @@
 
 #### Flask
 
-* [A repository of Flask resources](https://github.com/humiaozuzu/awesome-flask) ⭐ 12,784 | 🐛 7 | 📅 2026-08-17
+* [A repository of Flask resources](https://github.com/humiaozuzu/awesome-flask) ⭐ 12,782 | 🐛 7 | 📅 2026-08-17
 * [Flask Mega Tutorial Series](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 * [Designing a RESTful API with Python and Flask](http://blog.miguelgrinberg.com/post/designing-a-restful-api-with-python-and-flask)
 * [How I structure my Flask apps](http://web.archive.org/web/20160324134243/http://mattupstate.com/python/2013/06/26/how-i-structure-my-flask-applications.html)
@@ -499,14 +499,14 @@
 
 ## Deep Learning
 
-* [Python implementation of several famous Deep Learning papers](https://github.com/fchollet/keras/tree/master/examples) ⭐ 64,348 | 🐛 255 | 🌐 Python | 📅 2026-10-02
+* [Python implementation of several famous Deep Learning papers](https://github.com/fchollet/keras/tree/master/examples) ⭐ 64,347 | 🐛 261 | 🌐 Python | 📅 2026-10-02
 * [Build your first Neural Network with Python and Keras](http://machinelearningmastery.com/tutorial-first-neural-network-python-keras/)
 * [Building powerful image classification models using very little data](https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html)
 
 ## IPython Notebooks
 
 * [A gallery of data science IPython notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) ⭐ 29,359 | 🐛 48 | 🌐 Python | 📅 2024-03-20
-* [A Gallery of Interesting IPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks) ⭐ 16,785 | 🐛 1,305 | 🌐 Python | 📅 2026-10-01
+* [A Gallery of Interesting IPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks) ⭐ 16,785 | 🐛 1,306 | 🌐 Python | 📅 2026-10-01
 * [Python for Geosciences](https://github.com/koldunovn/python_for_geosciences) ⭐ 479 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2020-04-29
 * [Get Started with Python](https://github.com/rajathkumarmp/Python-Lectures) ⭐ 398 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2020-10-02
 * [Jupyter Notebooks derived from Allen Downey's Think Bayes](https://github.com/rlabbe/ThinkBayes) ⭐ 396 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2016-02-25
@@ -571,7 +571,7 @@
 
 ### Free
 
-* [Free Programming Books - Python](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#python) ⭐ 398,360 | 🐛 86 | 🌐 Python | 📅 2026-10-02
+* [Free Programming Books - Python](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#python) ⭐ 398,432 | 🐛 88 | 🌐 Python | 📅 2026-10-02
 * [Python Programming - Free Computer Books](http://freecomputerbooks.com/langPythonBooks.html)
 * [Some free books on Python](http://pythonbooks.revolunet.com/)
 * [Invent with Python](http://inventwithpython.com/chapters/)
@@ -595,7 +595,7 @@
 
 ## Online Courses and Challenges
 
-* [Interactive, test-driven Python coding challenges](https://github.com/donnemartin/interactive-coding-challenges) ⭐ 31,890 | 🐛 75 | 🌐 Python | 📅 2024-05-08
+* [Interactive, test-driven Python coding challenges](https://github.com/donnemartin/interactive-coding-challenges) ⭐ 31,891 | 🐛 75 | 🌐 Python | 📅 2024-05-08
 * [A Gentle Introduction to Programming Using Python](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/index.htm)
 * [Python Challenges](http://www.pythonchallenge.com/)
 * [Project Euler](http://projecteuler.net)
@@ -700,4 +700,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
