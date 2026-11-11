@@ -172,7 +172,7 @@
                     "open_issues": 18,
                     "owner": "humiaozuzu",
                     "repo": "awesome-flask",
-                    "stars": 12801,
+                    "stars": 12804,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -312,11 +312,11 @@
             "id": 33015583,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-10T02:55:37Z",
-            "open_issues": 262,
+            "last_commit": "2026-11-11T02:10:55Z",
+            "open_issues": 247,
             "owner": "keras-team",
             "repo": "keras",
-            "stars": 64420,
+            "stars": 64422,
             "topics": [
               "data-science",
               "deep-learning",
@@ -390,10 +390,10 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-11-09T12:46:14Z",
-            "open_issues": 1280,
+            "open_issues": 1279,
             "owner": "ipython",
             "repo": "ipython",
-            "stars": 16802,
+            "stars": 16803,
             "topics": [
               "closember",
               "data-science",
@@ -521,10 +521,10 @@
                 "language": "Python",
                 "license": "CC-BY-4.0",
                 "last_commit": "2026-11-07T19:10:09Z",
-                "open_issues": 94,
+                "open_issues": 99,
                 "owner": "EbookFoundation",
                 "repo": "free-programming-books",
-                "stars": 401415,
+                "stars": 401480,
                 "topics": [
                   "books",
                   "education",
@@ -654,7 +654,7 @@
             "open_issues": 123,
             "owner": "karan",
             "repo": "Projects",
-            "stars": 48102,
+            "stars": 48103,
             "topics": []
           },
           "first_seen": "2026-08-28T13:22:50.502Z"
@@ -664,7 +664,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T08:50:38.177Z",
+    "last_updated": "2026-11-11T08:24:49.504Z",
     "original_repository_info": {
       "archived": false,
       "description": "Bits and bytes of Python from the Internet",
