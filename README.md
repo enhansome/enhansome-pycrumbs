@@ -77,7 +77,7 @@
 
 ## Beginner's Delight
 
-* [Python Koans: Learn Python through TDD](https://github.com/gregmalcolm/python_koans) ⭐ 5,135 | 🐛 29 | 🌐 Python | 📅 2024-08-18
+* [Python Koans: Learn Python through TDD](https://github.com/gregmalcolm/python_koans) ⭐ 5,134 | 🐛 29 | 🌐 Python | 📅 2024-08-18
 * [Beginner's guide to Python](http://wiki.python.org/moin/BeginnersGuide)
 * [The Hitchhiker's guide to Python](http://docs.python-guide.org/en/latest/)
 * [Learn Python the hard way](http://learnpythonthehardway.org/book/)
@@ -234,7 +234,7 @@
 
 ## Environments and Environment Management
 
-* [VirtualEnv Burrito = virtualenv + virtualenvwrapper](https://github.com/brainsik/virtualenv-burrito) ⭐ 835 | 🐛 8 | 🌐 Python | 📅 2019-02-11
+* [VirtualEnv Burrito = virtualenv + virtualenvwrapper](https://github.com/brainsik/virtualenv-burrito) ⭐ 834 | 🐛 8 | 🌐 Python | 📅 2019-02-11
 * [Virtualenv - The official documentation](http://www.virtualenv.org/en/latest/)
 * [Virtual Environments — The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/dev/virtualenvs/)
 * [Virtualenv Tutorial](http://simononsoftware.com/virtualenv-tutorial/)
@@ -304,7 +304,7 @@
 
 ## Contributing to Python Development
 
-* [The CPython Developer's Guide](https://github.com/python/devguide) ⭐ 2,116 | 🐛 124 | 🌐 Python | 📅 2026-11-11
+* [The CPython Developer's Guide](https://github.com/python/devguide) ⭐ 2,114 | 🐛 124 | 🌐 Python | 📅 2026-11-11
 
 ## Warts and Gotchas
 
@@ -324,7 +324,7 @@
 
 #### Flask
 
-* [A repository of Flask resources](https://github.com/humiaozuzu/awesome-flask) ⭐ 12,810 | 🐛 19 | 📅 2026-08-17
+* [A repository of Flask resources](https://github.com/humiaozuzu/awesome-flask) ⭐ 12,813 | 🐛 21 | 📅 2026-08-17
 * [Flask Mega Tutorial Series](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 * [Designing a RESTful API with Python and Flask](http://blog.miguelgrinberg.com/post/designing-a-restful-api-with-python-and-flask)
 * [How I structure my Flask apps](http://web.archive.org/web/20160324134243/http://mattupstate.com/python/2013/06/26/how-i-structure-my-flask-applications.html)
@@ -499,17 +499,17 @@
 
 ## Deep Learning
 
-* [Python implementation of several famous Deep Learning papers](https://github.com/fchollet/keras/tree/master/examples) ⭐ 64,426 | 🐛 240 | 🌐 Python | 📅 2026-11-19
+* [Python implementation of several famous Deep Learning papers](https://github.com/fchollet/keras/tree/master/examples) ⭐ 64,442 | 🐛 243 | 🌐 Python | 📅 2026-11-20
 * [Build your first Neural Network with Python and Keras](http://machinelearningmastery.com/tutorial-first-neural-network-python-keras/)
 * [Building powerful image classification models using very little data](https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html)
 
 ## IPython Notebooks
 
-* [A gallery of data science IPython notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) ⭐ 29,393 | 🐛 48 | 🌐 Python | 📅 2024-03-20
-* [A Gallery of Interesting IPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks) ⭐ 16,807 | 🐛 1,273 | 🌐 Python | 📅 2026-11-18
-* [Python for Geosciences](https://github.com/koldunovn/python_for_geosciences) ⭐ 481 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2020-04-29
-* [Get Started with Python](https://github.com/rajathkumarmp/Python-Lectures) ⭐ 399 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2020-10-02
+* [A gallery of data science IPython notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) ⭐ 29,394 | 🐛 48 | 🌐 Python | 📅 2024-03-20
+* [A Gallery of Interesting IPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks) ⭐ 16,808 | 🐛 1,273 | 🌐 Python | 📅 2026-11-18
+* [Python for Geosciences](https://github.com/koldunovn/python_for_geosciences) ⭐ 480 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2020-04-29
 * [Jupyter Notebooks derived from Allen Downey's Think Bayes](https://github.com/rlabbe/ThinkBayes) ⭐ 396 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2016-02-25
+* [Get Started with Python](https://github.com/rajathkumarmp/Python-Lectures) ⭐ 393 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2020-10-02
 * [A collection of not-so-obvious Python stuff you should know!](http://nbviewer.ipython.org/github/rasbt/python_reference/blob/master/tutorials/not_so_obvious_python_stuff.ipynb?create=1)
 * [Peter Norvig's Notebook Collection](http://norvig.com/ipython/)
 * [Statistical Natural Language Processing in Python | How To Do Things With Words. And Counters.](http://nbviewer.ipython.org/url/norvig.com/ipython/How%20to%20Do%20Things%20with%20Words.ipynb)
@@ -571,7 +571,7 @@
 
 ### Free
 
-* [Free Programming Books - Python](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#python) ⭐ 401,867 | 🐛 124 | 🌐 Python | 📅 2026-11-12
+* [Free Programming Books - Python](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#python) ⭐ 401,927 | 🐛 128 | 🌐 Python | 📅 2026-11-12
 * [Python Programming - Free Computer Books](http://freecomputerbooks.com/langPythonBooks.html)
 * [Some free books on Python](http://pythonbooks.revolunet.com/)
 * [Invent with Python](http://inventwithpython.com/chapters/)
@@ -595,7 +595,7 @@
 
 ## Online Courses and Challenges
 
-* [Interactive, test-driven Python coding challenges](https://github.com/donnemartin/interactive-coding-challenges) ⭐ 31,970 | 🐛 75 | 🌐 Python | 📅 2024-05-08
+* [Interactive, test-driven Python coding challenges](https://github.com/donnemartin/interactive-coding-challenges) ⭐ 31,969 | 🐛 75 | 🌐 Python | 📅 2024-05-08
 * [A Gentle Introduction to Programming Using Python](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/index.htm)
 * [Python Challenges](http://www.pythonchallenge.com/)
 * [Project Euler](http://projecteuler.net)
@@ -617,7 +617,7 @@
 
 ## Videos
 
-* [Must-watch videos about Python by s16h](https://github.com/s16h/py-must-watch) ⭐ 3,337 | 🐛 25 | 🌐 HTML | 📅 2021-10-27
+* [Must-watch videos about Python by s16h](https://github.com/s16h/py-must-watch) ⭐ 3,335 | 🐛 25 | 🌐 HTML | 📅 2021-10-27
 * [Guido Van Rossum on the history of Python](http://www.youtube.com/watch?v=ugqu10JV7dk)
 * [Type Hints - Guido van Rossum - PyCon 2015](https://www.youtube.com/watch?v=2wDvzy6Hgxg)
 * [PyVideo](http://pyvideo.org/)
@@ -632,7 +632,7 @@
 
 ## Editors and IDE's for Python programming
 
-* [Emacs for python](https://github.com/gabrielelanaro/emacs-for-python) ⭐ 798 | 🐛 24 | 🌐 Emacs Lisp | 📅 2016-04-28
+* [Emacs for python](https://github.com/gabrielelanaro/emacs-for-python) ⭐ 797 | 🐛 24 | 🌐 Emacs Lisp | 📅 2016-04-28
 * [Setting up Sublime Text for Python Development](http://dbader.org/blog/setting-up-sublime-text-for-python-development)
 * [Sublime Text 2 Love by Kenneth Reitz](http://kennethreitz.org/sublime-text-2-love/)
 * [Sublime Text 2 tips for Python and web developers](http://opensourcehacker.com/2012/05/11/sublime-text-2-tips-for-python-and-web-developers/)
@@ -700,4 +700,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
