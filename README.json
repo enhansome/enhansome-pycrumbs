@@ -138,7 +138,7 @@
             "language": "Python",
             "license": "CC0-1.0",
             "last_commit": "2026-11-22T09:25:00Z",
-            "open_issues": 127,
+            "open_issues": 128,
             "owner": "python",
             "repo": "devguide",
             "stars": 2114,
@@ -172,7 +172,7 @@
                     "open_issues": 24,
                     "owner": "humiaozuzu",
                     "repo": "awesome-flask",
-                    "stars": 12812,
+                    "stars": 12813,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -313,10 +313,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-26T05:31:44Z",
-            "open_issues": 273,
+            "open_issues": 283,
             "owner": "keras-team",
             "repo": "keras",
-            "stars": 64450,
+            "stars": 64455,
             "topics": [
               "data-science",
               "deep-learning",
@@ -520,11 +520,11 @@
                 "id": 13491895,
                 "language": "Python",
                 "license": "CC-BY-4.0",
-                "last_commit": "2026-11-25T16:23:45Z",
-                "open_issues": 122,
+                "last_commit": "2026-11-27T01:01:33Z",
+                "open_issues": 114,
                 "owner": "EbookFoundation",
                 "repo": "free-programming-books",
-                "stars": 402310,
+                "stars": 402355,
                 "topics": [
                   "books",
                   "education",
@@ -654,7 +654,7 @@
             "open_issues": 123,
             "owner": "karan",
             "repo": "Projects",
-            "stars": 48122,
+            "stars": 48123,
             "topics": []
           },
           "first_seen": "2026-08-28T13:22:50.502Z"
@@ -664,7 +664,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T10:03:33.227Z",
+    "last_updated": "2026-11-27T10:09:11.289Z",
     "original_repository_info": {
       "archived": false,
       "description": "Bits and bytes of Python from the Internet",
