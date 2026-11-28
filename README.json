@@ -19,7 +19,7 @@
             "open_issues": 29,
             "owner": "gregmalcolm",
             "repo": "python_koans",
-            "stars": 5135,
+            "stars": 5136,
             "topics": [
               "koans",
               "python"
@@ -313,10 +313,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-26T05:31:44Z",
-            "open_issues": 283,
+            "open_issues": 305,
             "owner": "keras-team",
             "repo": "keras",
-            "stars": 64455,
+            "stars": 64454,
             "topics": [
               "data-science",
               "deep-learning",
@@ -352,7 +352,7 @@
             "open_issues": 48,
             "owner": "donnemartin",
             "repo": "data-science-ipython-notebooks",
-            "stars": 29402,
+            "stars": 29403,
             "topics": [
               "aws",
               "big-data",
@@ -390,7 +390,7 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-11-23T09:06:22Z",
-            "open_issues": 1271,
+            "open_issues": 1272,
             "owner": "ipython",
             "repo": "ipython",
             "stars": 16814,
@@ -521,10 +521,10 @@
                 "language": "Python",
                 "license": "CC-BY-4.0",
                 "last_commit": "2026-11-27T01:01:33Z",
-                "open_issues": 114,
+                "open_issues": 121,
                 "owner": "EbookFoundation",
                 "repo": "free-programming-books",
-                "stars": 402355,
+                "stars": 402393,
                 "topics": [
                   "books",
                   "education",
@@ -562,7 +562,7 @@
             "open_issues": 75,
             "owner": "donnemartin",
             "repo": "interactive-coding-challenges",
-            "stars": 31975,
+            "stars": 31977,
             "topics": [
               "algorithm",
               "coding",
@@ -654,7 +654,7 @@
             "open_issues": 123,
             "owner": "karan",
             "repo": "Projects",
-            "stars": 48123,
+            "stars": 48126,
             "topics": []
           },
           "first_seen": "2026-08-28T13:22:50.502Z"
@@ -664,7 +664,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T10:09:11.289Z",
+    "last_updated": "2026-11-28T09:28:32.383Z",
     "original_repository_info": {
       "archived": false,
       "description": "Bits and bytes of Python from the Internet",
